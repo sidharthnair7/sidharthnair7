@@ -1,12 +1,12 @@
 👋 Hi, I’m Sid!
 
 
-🎓 About Me
+<h1><u>🎓 About Me</u></h1>
 
 I’m a Computer Science student at Trent University (Canada) who’s obsessed with building cool projects, learning software engineering the right way, and constantly leveling up my backend, Java, Spring Boot, and REST API skills.
 When I’m not debugging code at 2AM, I’m probably optimizing my gaming setup or creating new mini-projects to sharpen my skills.
 
-🛠️ What I’m Currently Working On
+<h1><u>🛠️ What I’m Currently Working On </u></h1>
 
 * Building REST APIs with Spring Boot
 
@@ -18,7 +18,7 @@ When I’m not debugging code at 2AM, I’m probably optimizing my gaming setup 
 
 * Learning clean architecture + design patterns
 
-Strengthening my CS foundations in:
+<h1><u>Strengthening my CS foundations in:</u></h1>
 
 * Data structures & algorithms
 
@@ -30,7 +30,7 @@ Strengthening my CS foundations in:
 
 * Software architecture
 
-⚙️ Tools & Technologies I Use
+<h1><u>⚙️ Tools & Technologies I Use</u></h1>
 
 Languages: Java, Python, C, C#, JavaScript
 Backend: Spring Boot, Spring Security, REST APIs
@@ -39,7 +39,7 @@ Databases: PostgreSQL, MySQL
 Tools: IntelliJ IDEA, Postman, Git/GitHub, Docker (learning)
 Other: Multithreading, Socket programming, Simulation & modeling
 
-📫 How to Reach Me
+<h1><u>📫 How to Reach Me </u> </h1>
 
 You can reach me through:
 
