@@ -6,27 +6,27 @@ When I’m not debugging code at 2AM, I’m probably optimizing my gaming setup 
 
 🛠️ What I’m Currently Working On
 
-Building REST APIs with Spring Boot
+* Building REST APIs with Spring Boot
 
-Implementing JWT authentication & authorization
+* Implementing JWT authentication & authorization
 
-Creating real-time apps with WebSockets & STOMP
+* Creating real-time apps with WebSockets & STOMP
 
-Improving my full-stack dev workflow step-by-step
+* Improving my full-stack dev workflow step-by-step
 
-Learning clean architecture + design patterns
+* Learning clean architecture + design patterns
 
 Strengthening my CS foundations in:
 
-Data structures & algorithms
+* Data structures & algorithms
 
-Operating systems
+* Operating systems
 
-Networking
+* Networking
 
-Simulation modeling
+* Simulation modeling
 
-Software architecture
+* Software architecture
 
 ⚙️ Tools & Technologies I Use
 
@@ -43,4 +43,4 @@ You can reach me through:
 
 GitHub: github.com/Sidsid01
 
-(Add more links if you want—email, LinkedIn, portfolio, etc.)
+
