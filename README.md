@@ -1,4 +1,6 @@
 👋 Hi, I’m Sid!
+
+
 🎓 About Me
 
 I’m a Computer Science student at Trent University (Canada) who’s obsessed with building cool projects, learning software engineering the right way, and constantly leveling up my backend, Java, Spring Boot, and REST API skills.
