@@ -43,7 +43,7 @@ When I’m not debugging code at 2AM, I’m probably optimizing my gaming setup 
 
 * Tools: IntelliJ IDEA, Postman, Git/GitHub, Docker (learning)
 
-* Concepts: Multithreading, Socket programming
+* Concepts: Multithreading, Socket programming,concurrency basics
 
 <h1><u>📫 How to Reach Me </u> </h1>
 
