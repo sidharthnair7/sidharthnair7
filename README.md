@@ -32,12 +32,18 @@ When I’m not debugging code at 2AM, I’m probably optimizing my gaming setup 
 
 <h1><u>⚙️ Tools & Technologies I Use</u></h1>
 
-Languages: Java, Python, C, C#, JavaScript
-Backend: Spring Boot, Spring Security, REST APIs
-Frontend: HTML, CSS, JS (basic but growing)
-Databases: PostgreSQL, MySQL
-Tools: IntelliJ IDEA, Postman, Git/GitHub, Docker (learning)
-Other: Multithreading, Socket programming, Simulation & modeling
+
+* Languages: Java, Python, C, C#, JavaScript
+
+* Backend: Spring Boot, Spring Security, REST APIs
+
+* Frontend: HTML, CSS, JS (basic, improving)
+
+* Databases: PostgreSQL, MySQL
+
+* Tools: IntelliJ IDEA, Postman, Git/GitHub, Docker (learning)
+
+* Concepts: Multithreading, Socket programming, Simulation modeling
 
 <h1><u>📫 How to Reach Me </u> </h1>
 
