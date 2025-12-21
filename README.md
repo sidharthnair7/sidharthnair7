@@ -8,7 +8,7 @@ When I’m not debugging code at 2AM, I’m probably optimizing my gaming setup 
 
 <h1><u>🛠️ What I’m Currently Working On </u></h1>
 
-* Building REST APIs with Spring Boot
+* Building REST APIs with Spring Boot (controllers, services, repositories, validation)
 
 * Implementing JWT authentication & authorization
 
