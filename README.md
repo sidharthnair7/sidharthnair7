@@ -49,6 +49,6 @@ When I’m not debugging code at 2AM, I’m probably optimizing my gaming setup 
 
 You can reach me through:
 
-GitHub: github.com/sidharthnair7
+Email: realsid6@gmail.com
 
 
