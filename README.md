@@ -1,54 +1,56 @@
-👋 Hi, I’m Sid!
+# Hi, I'm Sid! 👋
 
+## About Me
+Final-year Computer Science student at Trent University 
+focused on backend and full-stack development with Java, 
+Spring Boot, PostgreSQL, Docker, and real-time systems.
 
-<h1><u>🎓 About Me</u></h1>
+I enjoy building software that solves practical problems 
+and helps people collaborate more easily.
 
-I’m a Computer Science student at Trent University (Canada) who’s obsessed with building cool projects, learning software engineering the right way, and constantly leveling up my backend, Java, Spring Boot, and REST API skills.
-When I’m not debugging code at 2AM, I’m probably optimizing my gaming setup or creating new mini-projects to sharpen my skills.
+Currently looking for junior backend, full-stack, or SWE 
+roles in Canada. PGWP holder — no sponsorship required.
 
-<h1><u>🛠️ What I’m Currently Working On </u></h1>
+---
 
-* Building REST APIs with Spring Boot (controllers, services, repositories, validation)
+## 🚀 Featured Projects
 
-* Implementing JWT authentication & authorization
+### CodeCollab – Real-Time Collaborative Coding Platform
+A real-time collaborative coding platform built to make 
+live code collaboration seamless across multiple users.
 
-* Creating real-time apps with WebSockets & STOMP
+**Tech Stack:** Java, Spring Boot, React, PostgreSQL, 
+WebSockets (STOMP), JWT, Docker, GitHub Actions, AWS EC2
 
-* Improving my full-stack dev workflow step-by-step
+- Live Demo: [CodeCollab Live Demo](https://sidharthnair-dev.netlify.app/)
+- Repository: [CodeCollab Repo](https://github.com/sidharthnair7/code-collab-platform)
 
-* Learning clean architecture + design patterns
+### Nutrico – AI Food Calorie Analyzer
+An AI-powered nutrition analysis app built during a 
+24-hour hackathon using JavaCV, Gemini API, and React.
 
-<h1><u>Strengthening my CS foundations in:</u></h1>
+**Tech Stack:** Java, Spring Boot, JavaCV, Gemini API, 
+React (Vite), REST API
 
-* Data structures & algorithms
+- Repository: [Nutrico Repo](https://github.com/sidharthnair7/food-ai-calorie-analyzer)
 
-* Operating systems
+---
 
-* Networking
+## 🛠 Tech Stack
 
-* Simulation modeling
+**Languages:** Java, Python, SQL, JavaScript  
+**Backend:** Spring Boot, Spring Security, REST APIs, 
+JWT, WebSockets (STOMP)  
+**Frontend:** React, Vite, HTML, CSS  
+**Databases:** PostgreSQL  
+**Tools:** Git, GitHub, GitHub Actions, Docker, 
+Postman, IntelliJ IDEA, Maven  
+**Cloud/Deployment:** AWS EC2, Netlify, Render, 
+Neon PostgreSQL  
 
-* Software architecture
+---
 
-<h1><u>⚙️ Tools & Technologies I Use</u></h1>
+## 📬 Contact
 
-
-* Languages: Java, Python, C, C#, JavaScript
-
-* Backend: Spring Boot, Spring Security, REST APIs
-
-* Frontend: HTML, CSS, JS (basic, improving)
-
-* Databases: PostgreSQL, MySQL
-
-* Tools: IntelliJ IDEA, Postman, Git/GitHub, Docker (learning)
-
-* Concepts: Multithreading, Socket programming,concurrency basics
-
-<h1><u>📫 How to Reach Me </u> </h1>
-
-You can reach me through:
-
-Email: realsid6@gmail.com
-
-
+- LinkedIn: [linkedin.com/in/sidharthnair7](https://www.linkedin.com/in/sidharthnair7/)
+- Email: realsid6@gmail.com
