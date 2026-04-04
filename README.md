@@ -16,8 +16,7 @@ roles in Canada. PGWP holder — no sponsorship required.
 ## 🚀 Featured Projects
 
 ### CodeCollab – Real-Time Collaborative Coding Platform
-A real-time collaborative coding platform built to make 
-live code collaboration seamless across multiple users.
+A real-time collaborative coding platform built to make live code collaboration more immediate and beginner-friendly across multiple users.
 
 **Tech Stack:** Java, Spring Boot, React, PostgreSQL, 
 WebSockets (STOMP), JWT, Docker, GitHub Actions, AWS EC2
