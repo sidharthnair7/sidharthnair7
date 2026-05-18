@@ -24,6 +24,18 @@ WebSockets (STOMP), JWT, Docker, GitHub Actions, AWS EC2
 - Live Demo: [CodeCollab Live Demo](https://sidharthnair-dev.netlify.app/)
 - Repository: [CodeCollab Repo](https://github.com/sidharthnair7/code-collab-platform)
 
+### 🏆 InsurCheck – AI Medical Bill Analyzer
+*Healthcare Track Winner — IBM × UNSA Hackathon 2026 (489 participants, teams from UWaterloo and UofT)*
+ 
+An AI-powered medical bill validation assistant that helps patients understand confusing billing codes, detect suspicious charges, and identify reimbursement opportunities — built in 3 days.
+ 
+**Tech Stack:** Java, Spring Boot, IBM WatsonX (Granite), RAG pipeline, PDF parsing, React, REST API
+ 
+- 🔗 [Devpost](https://devpost.com/software/insurcheck)
+- 📁 [Repository](https://github.com/sidharthnair7)
+  
+---
+
 ### Nutrico – AI Food Calorie Analyzer
 An AI-powered nutrition analysis app built during a 
 24-hour hackathon using JavaCV, Gemini API, and React.
