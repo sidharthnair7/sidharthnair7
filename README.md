@@ -24,6 +24,8 @@ WebSockets (STOMP), JWT, Docker, GitHub Actions, AWS EC2
 - Live Demo: [CodeCollab Live Demo](https://sidharthnair-dev.netlify.app/)
 - Repository: [CodeCollab Repo](https://github.com/sidharthnair7/code-collab-platform)
 
+---
+
 ### 🏆 InsurCheck – AI Medical Bill Analyzer
 *Healthcare Track Winner — IBM × UNSA Hackathon 2026 (489 participants, teams from UWaterloo and UofT)*
  
