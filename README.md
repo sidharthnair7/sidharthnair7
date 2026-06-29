@@ -26,7 +26,7 @@ A voice-first tool that takes the mess in your head (deadlines, half-finished pr
 
 **Tech Stack:** Java, Spring Boot, Spring Security, MongoDB, Claude API (Anthropic), Voyage AI, ElevenLabs, React, Vite, WebGL2, JWT, Docker, Render, Netlify
 
-- 🔗 Live: [reframe-platform.netlify.app](https://reframe-platform.netlify.app)
+- 🔗 Live: [ReFrame Demo](https://reframe-platform.netlify.app)
 - 📁 Repository: [Reframe](https://github.com/sidharthnair7/reframe)
 
 ---
