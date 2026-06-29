@@ -15,6 +15,22 @@ roles in Canada. PGWP holder — no sponsorship required.
 
 ## 🚀 Featured Projects
 
+### 🧠 Reframe – AI-Powered Cognitive Triage for Students
+A voice-first tool that takes the mess in your head (deadlines, half-finished projects, the guilt about all of it) and runs it through a 5-stage AI reasoning pipeline to surface what's actually blocking what, what to do first, and why — not just a reorganized wall of text.
+
+- Real RAG: Voyage AI embeddings + cosine similarity retrieval over a corpus of real productivity frameworks (GTD, CBT, Eisenhower Matrix), not a hardcoded lookup table
+- Explainable scoring: priority is plain deterministic arithmetic, with Claude only narrating the already-computed number
+- Hand-rolled WebGL2 issue sphere and hand-rolled SVG dependency graph — no Three.js, no charting library
+- Voice in (Web Speech API) and voice out (ElevenLabs) as equally first-class paths alongside text
+- Deployed: React frontend on Netlify, Spring Boot backend on Render, MongoDB Atlas
+
+**Tech Stack:** Java, Spring Boot, Spring Security, MongoDB, Claude API (Anthropic), Voyage AI, ElevenLabs, React, Vite, WebGL2, JWT, Docker, Render, Netlify
+
+- 🔗 Live: [reframe-platform.netlify.app](https://reframe-platform.netlify.app)
+- 📁 Repository: [Reframe](https://github.com/sidharthnair7/reframe)
+
+---
+
 ### CodeCollab – Real-Time Collaborative Coding Platform
 A real-time collaborative coding platform built to make live code collaboration more immediate and beginner-friendly across multiple users.
 
@@ -54,8 +70,9 @@ React (Vite), REST API
 **Languages:** Java, Python, SQL, JavaScript  
 **Backend:** Spring Boot, Spring Security, REST APIs, 
 JWT, WebSockets (STOMP)  
-**Frontend:** React, Vite, HTML, CSS  
-**Databases:** PostgreSQL  
+**AI/ML:** Claude API, Voyage AI (embeddings/RAG), IBM WatsonX, Gemini API  
+**Frontend:** React, Vite, WebGL2, HTML, CSS  
+**Databases:** PostgreSQL, MongoDB  
 **Tools:** Git, GitHub, GitHub Actions, Docker, 
 Postman, IntelliJ IDEA, Maven  
 **Cloud/Deployment:** AWS EC2, Netlify, Render, 
