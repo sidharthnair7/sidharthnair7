@@ -31,19 +31,24 @@ A voice-first tool that takes the mess in your head (deadlines, half-finished pr
 
 ---
 
-### CodeCollab – Real-Time Collaborative Coding Platform
-A real-time collaborative coding platform built to make live code collaboration more immediate and beginner-friendly across multiple users.
+### 💻 CodeCollab – Real-Time Collaborative Coding Platform
+A real-time collaborative coding platform built to make live code collaboration immediate and beginner-friendly across multiple simultaneous users — think shared editing sessions without the setup friction.
+
+- Real-time sync over WebSockets (STOMP protocol), so edits from every connected user propagate live with no manual refresh
+- Secured with JWT-based authentication, keeping collaborative sessions access-controlled rather than open-by-default
+- Full CI/CD pipeline via GitHub Actions, deployed to AWS EC2 with Docker — built and shipped like a real production service, not just a local demo
+- PostgreSQL-backed persistence so sessions and code state survive beyond a single connection
 
 **Tech Stack:** Java, Spring Boot, React, PostgreSQL, 
 WebSockets (STOMP), JWT, Docker, GitHub Actions, AWS EC2
 
-- Live Demo: [CodeCollab Live Demo](https://sidharthnair-dev.netlify.app/)
-- Repository: [CodeCollab Repo](https://github.com/sidharthnair7/code-collab-platform)
+- 🔗 Live Demo: [CodeCollab Live Demo](https://sidharthnair-dev.netlify.app/)
+- 📁 Repository: [CodeCollab Repo](https://github.com/sidharthnair7/code-collab-platform)
 
 ---
 
 ### 🏆 InsurCheck – AI Medical Bill Analyzer
-*Healthcare Track Winner — IBM × UNSA Hackathon 2026 (489 participants, teams from UWaterloo and UofT)*
+*⭐ Healthcare Track Winner — IBM × UNSA Hackathon 2026 (489 participants, teams from UWaterloo and UofT)*
  
 An AI-powered medical bill validation assistant that helps patients understand confusing billing codes, detect suspicious charges, and identify reimbursement opportunities — built in 3 days.
  
